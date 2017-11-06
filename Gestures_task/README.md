@@ -1,4 +1,4 @@
-# A very simple color-word stroop task
+# Gestures task
 
 
 A behavioral task where videos of a person performing different gestures are presented (videos were not uploaded).
